@@ -5,3 +5,8 @@ docs/technical/generated/
 node_modules/
 *.sublime-project
 *.sublime-workspace
+test.css
+test.html
+text-color.png
+tinycolorpicker.css
+*/.tern-port
